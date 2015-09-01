@@ -1,0 +1,22 @@
+{
+  "name": "diff-firefox-addon",
+  "version": "0.1.0",
+  "homepage": "https://github.com/guoyunhe/diff-firefox-addon",
+  "authors": [
+    "Guo Yunhe <guoyunhebrave@gmail.com>"
+  ],
+  "description": "DIFF - get closer to the truth.",
+  "main": "diff-panel/diff-panel.html",
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4"
+  }
+}
